@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">APlusPhysics</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="version">Version 1.1.3</string>
+    <string name="aplusphysics"><u><b>www.aplusphysics.com</b></u></string>
+    <string name="rating"><u><b>leave a rating</b></u></string>
+    <string name="error_player">There was an error initializing the YouTubePlayer (%1$s)</string>
+</resources>

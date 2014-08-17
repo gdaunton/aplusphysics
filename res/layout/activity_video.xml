@@ -1,0 +1,16 @@
+<view xmlns:android="http://schemas.android.com/apk/res/android"
+    class="com.rhosoft.aplusphysics.VideoActivity$ActionBarPaddedFrameLayout"
+    android:id="@+id/view_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+        <LinearLayout
+            android:id="@+id/fragmentz"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical"
+            android:orientation="vertical" >
+
+	</LinearLayout>
+
+</view>
