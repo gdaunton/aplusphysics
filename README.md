@@ -1,3 +1,5 @@
+<img src="http://www.rhosoft.biz/images/physics_banner.png">
+
 APlusPhysics
 ============
 <br/>
